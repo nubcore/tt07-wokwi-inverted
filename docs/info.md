@@ -9,12 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Sequentially spells out a message using the 7-segment display.
 
 ## How to test
 
-Explain how to use your project
-
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Decipher the hidden message by inverting the segments.
